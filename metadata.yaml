@@ -1,0 +1,35 @@
+_repo: The-Camp-Fire-Girls-Solve-a-Mystery--Or-The-Christmas-Adventure-at-Carver-House_38983
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38983-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Frey, Hildegard G.
+    aliases:
+    - Frey, Hildegarde G.
+    - Frey, Hildegard G. (Hildegard Gertrude)
+    birthdate: 1891
+    deathdate: 1957
+    gutenberg_agent_id: '2241'
+    url: http://www.gutenberg.org/2009/agents/2241
+description: ''
+gutenberg_issued: '2012-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Prudence -- Juvenile fiction'
+- !lcsh 'Clubs -- Juvenile fiction'
+- !lcsh 'Thoughtfulness -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+title: The Camp Fire Girls Solve a Mystery; Or, The Christmas Adventure at Carver
+  House
+url: http://www.gutenberg.org/ebooks/38983
